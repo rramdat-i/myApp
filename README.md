@@ -1,0 +1,2 @@
+# myApp
+Ionic starter application
